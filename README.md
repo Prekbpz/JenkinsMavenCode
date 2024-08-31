@@ -1,4 +1,4 @@
-## README - Github webhook demo
+## README - Poll SCM
 
 Addressbook Tutorial
 ====================
